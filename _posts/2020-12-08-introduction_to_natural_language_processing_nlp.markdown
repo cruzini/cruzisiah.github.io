@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Introduction to Natural Language Processing (NLP)"
-date:       2020-12-08 18:31:01 +0000
+date:       2020-12-08 13:31:02 -0500
 permalink:  introduction_to_natural_language_processing_nlp
 ---
 
