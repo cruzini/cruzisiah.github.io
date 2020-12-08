@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Count Vectorizer"
-date:       2020-12-08 18:45:37 +0000
+date:       2020-12-08 13:45:38 -0500
 permalink:  count_vectorizer
 ---
 
